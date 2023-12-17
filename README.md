@@ -4,7 +4,8 @@ Details about my masters thesis at BTH Karlskrona, Sweden.
 
 Rafique, Muhammad Ahmad Imran, and Lokesh Kola. "Exploring Machine Learning Techniques and Metric Feature Pairs for Software Defects Prediction." (2023).
 
-Tools Used : Python, scikit-learn, pandas, numpy, tensorflow, excel, latex, Tableau etc
+*Tools Used* : Python, scikit-learn, pandas, numpy, tensorflow, excel, latex, Tableau etc
+*Code of the study* : upload permission pending
 
 ## Abstract
 ### Background :- 
