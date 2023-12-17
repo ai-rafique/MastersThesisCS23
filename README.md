@@ -6,7 +6,14 @@ Rafique, Muhammad Ahmad Imran, and Lokesh Kola. "Exploring Machine Learning Tech
 
 *Tools Used* : Python, scikit-learn, pandas, numpy, tensorflow, excel, latex, Tableau etc
 
+*Dataset Used* : Ferenc, R., Tóth, Z., Ladányi, G. et al. A public unified bug dataset for java and its assessment regarding metrics and bug prediction. Software Qual J 28, 1447–1506 (2020). https://doi.org/10.1007/s11219-020-09515-0
+
+*Techniques Used* : SMOTE, Pipelining, machine/deep learning, data visualization and analysis, quasi automated data to prediction flow.
+
+*Wants to add in code* : Full automation of data entry to prediction and reporting as a pdf with insights (possibly attaching existing services and libraries).
+
 *Code of the study* : upload permission pending
+
 
 ## Abstract
 ### Background :- 
